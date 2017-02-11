@@ -15,7 +15,7 @@ Homebrew 会将插件安装到独立目录 `/usr/local/Cellar`中，然后将文
 ## 常用命令介绍
 
 ```shell
-xample usage:
+Example usage:
   brew search [TEXT|/REGEX/]                    搜索
   brew (info|home|options) [FORMULA...]         显示插件信息 | 使用浏览器打开 | 显示插件安装选项
   brew install FORMULA...                       安装插件
